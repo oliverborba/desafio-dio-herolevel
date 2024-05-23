@@ -12,3 +12,4 @@ D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\refint\HeroLevel.dll
 D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.pdb
 D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.genruntimeconfig.cache
 D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\ref\HeroLevel.dll
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.sourcelink.json

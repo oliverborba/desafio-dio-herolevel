@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeroLevel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3551d9cdbacbdb983a49ddd9dd1db267db733953")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeroLevel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeroLevel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
