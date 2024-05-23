@@ -1,0 +1,14 @@
+D:\Desenvolvimento\DIO\HeroLevel\src\bin\Debug\net8.0\HeroLevel.exe
+D:\Desenvolvimento\DIO\HeroLevel\src\bin\Debug\net8.0\HeroLevel.deps.json
+D:\Desenvolvimento\DIO\HeroLevel\src\bin\Debug\net8.0\HeroLevel.runtimeconfig.json
+D:\Desenvolvimento\DIO\HeroLevel\src\bin\Debug\net8.0\HeroLevel.dll
+D:\Desenvolvimento\DIO\HeroLevel\src\bin\Debug\net8.0\HeroLevel.pdb
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.AssemblyInfoInputs.cache
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.AssemblyInfo.cs
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.dll
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\refint\HeroLevel.dll
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.pdb
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\HeroLevel.genruntimeconfig.cache
+D:\Desenvolvimento\DIO\HeroLevel\src\obj\Debug\net8.0\ref\HeroLevel.dll
